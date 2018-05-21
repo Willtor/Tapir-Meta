@@ -1,6 +1,6 @@
 [submodule "tapir"]
 	path = tapir
-	url = https://github.com/wsmoses/Parallel-IR
+	url = https://github.com/Willtor/Tapir-LLVM
 
 [submodule "tapir/tools/clang"]
 	path = tapir/tools/clang
